@@ -1,0 +1,13 @@
+beautifulsoup4
+ipykernel
+ipython
+matplotlib
+numpy
+pandas
+pillow
+scikit-learn
+scipy
+statsmodels
+sympy
+torch
+torchvision
